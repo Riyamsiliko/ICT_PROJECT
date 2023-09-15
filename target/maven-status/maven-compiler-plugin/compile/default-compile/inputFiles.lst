@@ -1,0 +1,15 @@
+/home/riyam/Documents/e-government/ICT_PROJECT/src/main/java/com/ict_project/ICT_PROJECT/all_user/services/UserServices.java
+/home/riyam/Documents/e-government/ICT_PROJECT/src/main/java/com/ict_project/ICT_PROJECT/all_user/controller/UserController.java
+/home/riyam/Documents/e-government/ICT_PROJECT/src/main/java/com/ict_project/ICT_PROJECT/all_user/dto/UserResponse.java
+/home/riyam/Documents/e-government/ICT_PROJECT/src/main/java/com/ict_project/ICT_PROJECT/staff/repository/StaffRepository.java
+/home/riyam/Documents/e-government/ICT_PROJECT/src/main/java/com/ict_project/ICT_PROJECT/all_user/model/UserModel.java
+/home/riyam/Documents/e-government/ICT_PROJECT/src/main/java/com/ict_project/ICT_PROJECT/all_user/dto/UserRequest.java
+/home/riyam/Documents/e-government/ICT_PROJECT/src/main/java/com/ict_project/ICT_PROJECT/role/repository/RoleRepository.java
+/home/riyam/Documents/e-government/ICT_PROJECT/src/main/java/com/ict_project/ICT_PROJECT/staff/model/StaffModel.java
+/home/riyam/Documents/e-government/ICT_PROJECT/src/main/java/com/ict_project/ICT_PROJECT/staff/controller/StaffController.java
+/home/riyam/Documents/e-government/ICT_PROJECT/src/main/java/com/ict_project/ICT_PROJECT/all_user/repository/UserRepository.java
+/home/riyam/Documents/e-government/ICT_PROJECT/src/main/java/com/ict_project/ICT_PROJECT/role/services/RoleServices.java
+/home/riyam/Documents/e-government/ICT_PROJECT/src/main/java/com/ict_project/ICT_PROJECT/staff/services/StaffServices.java
+/home/riyam/Documents/e-government/ICT_PROJECT/src/main/java/com/ict_project/ICT_PROJECT/role/model/RoleModel.java
+/home/riyam/Documents/e-government/ICT_PROJECT/src/main/java/com/ict_project/ICT_PROJECT/IctProjectApplication.java
+/home/riyam/Documents/e-government/ICT_PROJECT/src/main/java/com/ict_project/ICT_PROJECT/role/controller/RoleController.java
