@@ -3,8 +3,10 @@ package com.ict_project.ICT_PROJECT.all_user.controller;
 import com.ict_project.ICT_PROJECT.all_user.dto.UserRequest;
 import com.ict_project.ICT_PROJECT.all_user.dto.UserResponse;
 import com.ict_project.ICT_PROJECT.all_user.services.UserServices;
+import lombok.AllArgsConstructor;
 import lombok.RequiredArgsConstructor;
 import org.modelmapper.ModelMapper;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
@@ -15,8 +17,10 @@ import java.util.List;
 @RequiredArgsConstructor
 @RequestMapping("api/v1/users")
 public class UserController {
-    private final UserServices userServices;
-    private final ModelMapper modelMapper;
+    @Autowired
+    private UserServices userServices;
+    @Autowired
+    private ModelMapper modelMapper;
 
 
     @PostMapping("/add")
